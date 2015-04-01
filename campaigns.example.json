@@ -1,14 +1,16 @@
-[{
-	"tweets": [
-		"https://twitter.com/username/status/2398234723984723",
-		"https://twitter.com/username/status/2131231231231232"
-	],
-	"requirements": [
-		"follow": true,
-		"retweet": true
-	],
-	"period": [
-		"start": 31231232312
-		"end": 2343423454
-	]
-}]
+[
+  {
+    "tweets": [
+      "https://twitter.com/username/status/2398234723984723",
+      "https://twitter.com/username/status/2131231231231232"
+    ],
+    "requirements": {
+      "follow": true,
+      "retweet": true
+    },
+    "period": {
+      "start": 31231232312,
+      "end": 2343423454
+    }
+  }
+]
