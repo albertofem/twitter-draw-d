@@ -1,0 +1,4 @@
+0.0.1 - 01 April 2015
+---
+
+* Basic project setup and Travis
